@@ -1,5 +1,7 @@
-<h1 align="center">MOHAMMAD REZA TARKHAN</h1>
 
+ ![](https://komarev.com/ghpvc/?username=mrtarkhan&label=PROFILE+VIEWS+STARTS+FROM+2022-AUG-12+)
+
+<h1 align="center">MOHAMMAD REZA TARKHAN</h1>
 <p align="center">
  <a href="https://linkedin.com/in/mrtarkhan" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
@@ -8,7 +10,6 @@
     <img src="https://img.icons8.com/color/50/000000/medium-monogram.png"/>
   </a>
 </p>
-
 
 <p align="center">
 <a href="#" alt="Mohammadreza Tarkhan github stats">
