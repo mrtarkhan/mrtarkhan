@@ -1,13 +1,18 @@
-
- ![](https://komarev.com/ghpvc/?username=mrtarkhan&label=PROFILE+VIEWS+STARTS+FROM+2022-AUG-12+)
-
 <h1 align="center">MOHAMMAD REZA TARKHAN</h1>
+<p align="center">
+ <a href="https://komarev.com/ghpvc/?username=mrtarkhan&label=PROFILE+VIEWS+STARTS+FROM+2022-AUG-12+" target="_blank">
+  <img src="https://komarev.com/ghpvc/?username=mrtarkhan&label=PROFILE+VIEWS+STARTS+FROM+2022-AUG-12+"/>
+ </a> 
+</p>
 <p align="center">
  <a href="https://linkedin.com/in/mrtarkhan" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
  </a>
   <a href="https://medium.com/@mrtarkhan" target="_blank">
     <img src="https://img.icons8.com/color/50/000000/medium-monogram.png"/>
+  </a>
+   <a href="https://github.com/mrtarkhan?tab=repositories" target="_blank">
+    <img src="https://img.icons8.com/color/50/000000/github.png"/>
   </a>
 </p>
 
@@ -23,12 +28,6 @@
 <!-- dotnet -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"  width="45" height="45" />
 
-  
-<!-- java -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" width="45" height="45" />
 
 <!-- databases -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" />
