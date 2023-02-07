@@ -1,7 +1,7 @@
 <h1 align="center">MOHAMMAD REZA TARKHAN</h1>
 <p align="center">
  <a href="https://komarev.com/ghpvc/?username=mrtarkhan&label=PROFILE+VIEWS+STARTS+FROM+2022-AUG-12+" target="_blank">
-  <img src="https://komarev.com/ghpvc/?username=mrtarkhan&label=PROFILE+VIEWS+STARTS+FROM+2022-AUG-12+"/>
+  <img src="https://komarev.com/ghpvc/?username=mrtarkhan&label=PROFILE+VIEWS"/>
  </a> 
 </p>
 <p align="center">
