@@ -12,7 +12,6 @@
 
 
 
-<pre>Linkedin :   <a href="https://linkedin.com/in/mrtarkhan" target="_blank">https://linkedin.com/in/mrtarkhan </a><br /></pre>
 <pre>Medium   :   <a href="https://medium.com/@mrtarkhan" target="_blank">https://medium.com/@mrtarkhan</a><br /></pre>
 <pre>Github   :   <a href="https://github.com/mrtarkhan?tab=repositories" target="_blank">https://github.com/mrtarkhan?tab=repositories  </a><br /></pre>
 
