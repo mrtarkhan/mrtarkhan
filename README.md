@@ -4,7 +4,7 @@
 <b>HI There, </b>
 
  I'm a Software Engineer.<br>
-⚙️ I use daily: HTML,CSS,Javascript,ReactJS,.Net,Asp.Net, Sql Server, Microsoft Azure<br>
+⚙️ I use daily: C#, .Net, Asp.Net Core, SQL, Docker <br>
 🌱 Learning all about System Design, Domain Driven Design, Clean Architecture, Microservices.<br>
 👯 I’m looking to collaborate on dotnet projects.<br>
 💬 Ping me about Development & System Design.<br>
